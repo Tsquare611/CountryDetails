@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CountryDetails</string>
+    <string name="app2_name">BANGLADESH</string>
+    <string name="app3_name">INDIA</string>
+    <string name="app4_name">PAKISTAN</string>
+
+    <string name="title_txt">This is a Title</string>
+    <string name="message_txt">Do You Want To Exit?</string>
+
+
+
+
+    <string name="Bangaldesh_text">Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways. Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger.
+Capital: Dhaka Trending
+Dialing code: +880
+Date format: dd-mm-yyyy AD
+Prime minister: Sheikh Hasina
+President: Abdul Hamid</string>
+    <string name="India_text">India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world. Wikipedia
+President: Ram Nath Kovind Trending
+Capital: New Delhi
+Dialing code: +91
+Population: 1.339 billion (2017) World Bank
+Points of interest: Taj Mahal, Amber Palace, Hawa Mahal, Red Fort, </string>
+    <string name="Pakistan_txt">Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world’s fifth-most populous country with a population exceeding 212.7 million people. In area, it is the 33rd-largest country, spanning 881,913 square kilometres. Wikipedia
+Population: 197 million (2017) Trending, World Bank
+Capital: Islamabad
+Currency: Pakistani rupee
+President: Arif Alvi
+Prime minister: Imran Khan</string>
+</resources>

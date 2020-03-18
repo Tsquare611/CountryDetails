@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+   android:background="@drawable/background_gradient"
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+   <AnalogClock
+       android:layout_marginBottom="10dp"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"/>
+<Button
+    android:id="@+id/button1Id"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/app2_name"
+     android:drawableLeft="@drawable/img3"
+    style="@style/Widget.AppCompat.Button.Colored"
+    android:textStyle="bold"
+    android:textSize="20sp"
+    ></Button>
+    <Button
+        android:id="@+id/button2Id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app3_name"
+        android:drawableLeft="@drawable/img2"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        ></Button>
+    <Button
+        android:id="@+id/button3Id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app4_name"
+        android:drawableLeft="@drawable/img1"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        ></Button>
+
+</LinearLayout>
